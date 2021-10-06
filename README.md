@@ -29,6 +29,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Link](https://github.com/gabrielcardosodev)
+- Website - [Linkedin](https://www.linkedin.com/in/gabrielcardosodev)
 - Frontend Mentor - [@gabrielcardosodev](https://www.frontendmentor.io/profile/gabrielcardosodev)
 - Twitter - [@cardjoso](https://www.twitter.com/cardjoso)
