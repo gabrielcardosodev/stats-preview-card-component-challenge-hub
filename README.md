@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Link](https://github.com/gabrielcardosodev/order-summary-component-challenge-hub)
-- Live Site URL: [Link](https://gabrielcardosodev.github.io/order-summary-component-challenge-hub/)
+- Solution URL: [Repository](https://github.com/gabrielcardosodev/stats-preview-card-component-challenge-hub)
+- Live Site URL: [GitHub Pages](https://gabrielcardosodev.github.io/stats-preview-card-component-challenge-hub/)
 
 ### Built with
 
